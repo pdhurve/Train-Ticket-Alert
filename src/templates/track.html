@@ -1,0 +1,17 @@
+{%extends "base.html" %}
+{% load staticfiles %}
+{% load crispy_forms_tags %}
+
+{% block content%}
+<div class="container">
+	<div class="row">
+		<div class="col-md-8 col-md-offset-10" style="padding: 50px;">
+<form method = "POST" action = "">{%csrf_token%}
+	{{title}}
+	{{form | crispy}}
+	<input type = "submit" value = "Submit">
+</form>
+</div>
+</div>
+</div>
+{%endblock%}

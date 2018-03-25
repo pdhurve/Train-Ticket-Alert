@@ -1,0 +1,1030 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"iter",
+				"iterate_start"
+			],
+			[
+				"ite",
+				"iterate_start"
+			],
+			[
+				"iterate",
+				"iterate_start"
+			],
+			[
+				"que",
+				"queueEnd"
+			],
+			[
+				"print",
+				"print_queue"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"temp",
+				"tempstart"
+			],
+			[
+				"te",
+				"tempx"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"start",
+				"queueStart"
+			],
+			[
+				"end",
+				"queueEnd"
+			],
+			[
+				"itera",
+				"iterate_start"
+			],
+			[
+				"queu",
+				"queueStart"
+			],
+			[
+				"rec",
+				"received"
+			],
+			[
+				"c",
+				"cumulative"
+			],
+			[
+				"siz",
+				"sizeof"
+			],
+			[
+				"dat",
+				"datasize"
+			],
+			[
+				"se",
+				"sequence_number"
+			],
+			[
+				"wind",
+				"wind_end"
+			],
+			[
+				"recie",
+				"Received"
+			],
+			[
+				"windo",
+				"window_data"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"cont",
+				"count"
+			],
+			[
+				"ac",
+				"actual_diskblocks_used"
+			],
+			[
+				"MA",
+				"MAXINODES"
+			],
+			[
+				"per",
+				"permission_other"
+			],
+			[
+				"file",
+				"file_size"
+			],
+			[
+				"permiss",
+				"permission_writer"
+			],
+			[
+				"permo",
+				"permission_user"
+			],
+			[
+				"Max",
+				"MAXINODES"
+			],
+			[
+				"MAX",
+				"MAXINODES"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"si",
+				"sizeof"
+			],
+			[
+				"inodes",
+				"inodes_map"
+			],
+			[
+				"di",
+				"diskblock_map"
+			],
+			[
+				"max",
+				"max_diskblocks"
+			],
+			[
+				"inode",
+				"inodes"
+			],
+			[
+				"super",
+				"superblock"
+			],
+			[
+				"data",
+				"data_block"
+			],
+			[
+				"s",
+				"struct\tstruct"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"aa",
+				"alarm_fired"
+			],
+			[
+				"base",
+				"base_start"
+			],
+			[
+				"bas",
+				"base_start"
+			],
+			[
+				"fd",
+				"fd_arr"
+			],
+			[
+				"success",
+				"success_transfer"
+			],
+			[
+				"get",
+				"getpid"
+			],
+			[
+				"break",
+				"break"
+			],
+			[
+				"Md",
+				"MD5"
+			],
+			[
+				"bre",
+				"breakflag"
+			],
+			[
+				"suc",
+				"success_transfer"
+			],
+			[
+				"b",
+				"base"
+			],
+			[
+				"m",
+				"maxscore"
+			],
+			[
+				"mat",
+				"matx"
+			],
+			[
+				"queue",
+				"queueX"
+			],
+			[
+				"the",
+				"theta_cube_temp"
+			],
+			[
+				"theta",
+				"theta_quad"
+			],
+			[
+				"alpha",
+				"alpha"
+			],
+			[
+				"para",
+				"parameters_cube"
+			],
+			[
+				"rms",
+				"rmse_vs_alpha_cube"
+			],
+			[
+				"rm",
+				"rmse_vs_alpha_quad"
+			],
+			[
+				"i",
+				"iteration"
+			],
+			[
+				"rmse",
+				"rmseval"
+			],
+			[
+				"r",
+				"rmse_vs_iter_irls"
+			],
+			[
+				"Grad",
+				"GradientDescent"
+			],
+			[
+				"rmse_vs_iter",
+				"rmse_vs_iter_irls"
+			],
+			[
+				"pa",
+				"parameters_linear"
+			],
+			[
+				"par",
+				"parameters_cube"
+			],
+			[
+				"sq",
+				"sqft"
+			],
+			[
+				"ma",
+				"max"
+			],
+			[
+				"price",
+				"price_test"
+			],
+			[
+				"sqft",
+				"sqft_test"
+			],
+			[
+				"fl",
+				"floors_test"
+			],
+			[
+				"bed",
+				"bedrooms_test"
+			],
+			[
+				"bat",
+				"bathrooms_test"
+			],
+			[
+				"parent",
+				"parentfd"
+			],
+			[
+				"main",
+				"mainfds"
+			],
+			[
+				"FD",
+				"FD_ZERO"
+			],
+			[
+				"sever",
+				"serveraddr"
+			],
+			[
+				"sie",
+				"sizeof"
+			],
+			[
+				"clie",
+				"clientlen"
+			],
+			[
+				"read",
+				"readfds"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"apl",
+				"alpha_iter"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"linear",
+				"linear"
+			],
+			[
+				"o",
+				"OwnRoll"
+			],
+			[
+				"F",
+				"FriendRoll"
+			],
+			[
+				"Fr",
+				"FriendRoll"
+			],
+			[
+				"M",
+				"Movie"
+			],
+			[
+				"R",
+				"RollNo"
+			],
+			[
+				"Li",
+				"Likes"
+			],
+			[
+				"st",
+				"stars"
+			],
+			[
+				"N",
+				"name"
+			],
+			[
+				"S",
+				"Student"
+			],
+			[
+				"ra",
+				"Rating"
+			],
+			[
+				"MD",
+				"md5sum"
+			],
+			[
+				"pr",
+				"printf\tprintf …"
+			],
+			[
+				"ser",
+				"serveraddr"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"theta_",
+				"theta_cube"
+			],
+			[
+				"rmse_vs_alpha_",
+				"rmse_vs_alpha_linear"
+			],
+			[
+				"parameters_",
+				"parameters_linear"
+			],
+			[
+				"co",
+				"cost_vs_lambda"
+			],
+			[
+				"pred",
+				"pred_price"
+			],
+			[
+				"cost",
+				"cost_vs_iter"
+			],
+			[
+				"err",
+				"Error"
+			],
+			[
+				"to",
+				"tokens"
+			],
+			[
+				"stan",
+				"standard"
+			],
+			[
+				"string2",
+				"string2words"
+			],
+			[
+				"md5",
+				"md5sum"
+			],
+			[
+				"MD5",
+				"md5sum"
+			],
+			[
+				"av",
+				"avgfcfs"
+			],
+			[
+				"avg",
+				"avgrr2"
+			],
+			[
+				"child",
+				"childfd"
+			],
+			[
+				"h",
+				"hrs"
+			],
+			[
+				"pivot",
+				"pivotindex"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"mid",
+				"mid-1"
+			],
+			[
+				"right",
+				"rightmax"
+			],
+			[
+				"min",
+				"min"
+			],
+			[
+				"otherpay",
+				"otherpay"
+			],
+			[
+				"Bas",
+				"basicpay"
+			],
+			[
+				"ratin",
+				"ratingval"
+			],
+			[
+				"sugar",
+				"sugarval"
+			],
+			[
+				"regist",
+				"regist"
+			],
+			[
+				"all",
+				"allzero"
+			],
+			[
+				"carr",
+				"carryout15"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#include <bits/stdc++.h>\n\nusing namespace std;\n\nint testcases;\nint n, m;\nint memoise[100000][];\n\nstruct diamond{\n\tint b;\n\tint c;\n\tint v;\n};\n\nbool myComparator(struct diamond v1, struct diamond v2){\n\tif(v1.b != v2.b)\n\t\treturn v1.b < v2.b;\n\telse return v1.c > v2.c; \n}\n\n\nint find_max(struct diamond *arr, int index, int cannotselect){\n\t\n\tif(index >= m) return 0;\n\n\tint i;\n\tint j, cost, maxcost = -10000;\n\t\n\tfor( i = index; i < m; i++)\n\t\tif(arr[index].b != arr[i].b)\n\t\t\tbreak;\n\n\tfor(j = index; j < i; j++){\n\t\tif(arr[j].c == cannotselect)continue;\n\t\tcost = arr[j].v + find_max(arr, i, arr[j].c);\n\t\tif(cost > maxcost)\n\t\t\tmaxcost = cost;\n\t}\n\n\treturn maxcost;\n\n}\n\nint main(){\n\tcin >> testcases;\n\tint out;\n\tint cannotselect = -1;\n\twhile(testcases--){\n\t\t\n\t\tcin >> n >> m;\n\t\t\n\t\tstruct diamond *arr = new struct diamond[m];\n\n\t\tfor(int i = 0; i < m; i++)\n\t\t\tcin >> arr[i].b >> arr[i].c >> arr[i].v;\n\n\t\tsort(arr, arr + m, myComparator);\n\n\t\tout = find_max(arr, 0, cannotselect);\n\t\tif(out < 0)\n\t\t\tout = -1;\n\t\tcout << out << endl;\n\t}\n}",
+			"file": "/home/pankaj/Desktop/xyz.cpp",
+			"file_size": 996,
+			"file_write_time": 131657999221926407,
+			"settings":
+			{
+				"buffer_size": 1019,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 214.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/pankaj/Documents/Samsung/jan_adv.cpp",
+		"/home/pankaj/Documents/networks lab/myudp_sliding_window/client/udpclient.cpp",
+		"/home/pankaj/Documents/networks lab/myudp_sliding_window/server/udpserver.c",
+		"/home/pankaj/Documents/networks lab/myudp_sliding_window/client/udpclient.c",
+		"/home/pankaj/Documents/networks lab/upload/myudp_sliding_window/server/udpserver.c",
+		"/home/pankaj/Documents/networks lab/upload/myudp_sliding_window/client/udpclient.c",
+		"/home/pankaj/Documents/os/assignment4/ass4_23.cpp",
+		"/home/pankaj/Desktop/test.cpp",
+		"/home/pankaj/Documents/os/assignment4/myfs.h",
+		"/home/pankaj/Desktop/Ass_6_15CS10031_15CS30025/server/udpserver.c",
+		"/home/pankaj/Desktop/alarm.c",
+		"/home/pankaj/Desktop/Ass_6_15CS10031_15CS30025/client/udpclient.cpp",
+		"/home/pankaj/Desktop/Ass_6_15CS10031_15CS30025/client/udpclient.c",
+		"/home/pankaj/Desktop/test_1_15CS10031/server/udpserver.c",
+		"/home/pankaj/Desktop/test_1_15CS10031/client/udpclient.c",
+		"/home/pankaj/Documents/networks lab/myUDP/client/udpclient.c",
+		"/home/pankaj/Documents/networks lab/myUDP/server/udpserver.c",
+		"/home/pankaj/Documents/Samsung/june_adv.c",
+		"/home/pankaj/Documents/Samsung/2016_february.c",
+		"/home/pankaj/Documents/Samsung/2016_february.cpp",
+		"/home/pankaj/Documents/ML/assignment1/assignment1d.py",
+		"/home/pankaj/Documents/ML/assignment1/assignment1c.py",
+		"/home/pankaj/Documents/ML/assignment1/assignment1b.py",
+		"/home/pankaj/Documents/ML/assignment1/assignment1a.py",
+		"/home/pankaj/Documents/networks lab/peer2peer/TCP/peer2peer.c",
+		"/home/pankaj/Desktop/chat_app.c",
+		"/home/pankaj/Documents/networks lab/UDP/server/udpserver.c",
+		"/home/pankaj/Documents/networks lab/myTCP/server/tcpserver.c",
+		"/home/pankaj/Desktop/oddpc.sql",
+		"/home/pankaj/Documents/networks lab/myTCP/client/tcpclient.c",
+		"/home/pankaj/Documents/networks lab/myUDP/udpserver.c",
+		"/home/pankaj/Documents/networks lab/UDP/client/udpclient.c",
+		"/home/pankaj/Documents/networks lab/myUDP/udpclient.c",
+		"/home/pankaj/Documents/ML/assignment1/linear_regression.py",
+		"/home/pankaj/Downloads/ass3b.cpp",
+		"/home/pankaj/Documents/os/Ass3a_23/ass3a_23.cpp",
+		"/home/pankaj/Documents/os/ass2.cpp",
+		"/home/pankaj/Documents/os/Ass2_50.cpp",
+		"/home/pankaj/Documents/networks lab/TCP/tcpclient.c",
+		"/home/pankaj/Documents/networks lab/TCP/tcpserver.c",
+		"/home/pankaj/Downloads/Assignment_3_15CS10031_15CS30025 (3)/server/tcpserver.c",
+		"/home/pankaj/Downloads/Assignment_3_15CS10031_15CS30025 (2)/server/tcpserver.c",
+		"/home/pankaj/Documents/networks lab/myTCP/tcpclient.c",
+		"/home/pankaj/Documents/networks lab/myTCP/tcpserver.c",
+		"/home/pankaj/Desktop/Ass3a_23/reading.txt",
+		"/home/pankaj/Desktop/Ass3a_23/random.cpp",
+		"/home/pankaj/Desktop/Ass3a_50.cpp",
+		"/home/pankaj/Desktop/Assignment1_1_TCP/server/tcpserver.c",
+		"/home/pankaj/Desktop/Assignment1_1_TCP/server.c",
+		"/home/pankaj/Desktop/Assignment1_1_TCP/client/tcpclient.c",
+		"/home/pankaj/Desktop/Assignment1_1_TCP/client.c",
+		"/home/pankaj/Desktop/Assignment1_1_TCP/tcpserver-1.c",
+		"/home/pankaj/Desktop/Assignment1_1_TCP/tcpclient.c",
+		"/home/pankaj/Documents/networks lab/Ass3_15CS10031_15CS30025/Socket/Socket/TCP/tcpserver.c",
+		"/home/pankaj/Documents/networks lab/Ass3_15CS10031_15CS30025/Socket/Socket/TCP/tcpclient.c",
+		"/home/pankaj/Documents/geeksforgeeks/Data Structures/Array/order statistics/maximumconsecutive1s.cpp",
+		"/home/pankaj/Documents/geeksforgeeks/Data Structures/Array/order statistics/missingnumberunsorted.cpp",
+		"/home/pankaj/Documents/os/tokenise.c",
+		"/home/pankaj/Desktop/Ass2a_24.cpp",
+		"/home/pankaj/Documents/codeforces/contest 1/garden.cpp",
+		"/home/pankaj/Documents/os/executecommand.c",
+		"/home/pankaj/Documents/os/fork.c",
+		"/home/pankaj/Documents/geeksforgeeks/Data Structures/Array/searching and sorting/pairdiffk.cpp",
+		"/home/pankaj/Desktop/maxj-i.cpp",
+		"/home/pankaj/Desktop/lab1",
+		"/usr/share/wireshark/init.lua",
+		"/home/pankaj/Documents/geeksforgeeks/searching & sorting/subarray.cpp",
+		"/home/pankaj/Desktop/upperbound.cpp",
+		"/home/pankaj/Desktop/lis.cpp",
+		"/home/pankaj/Desktop/missingnumber.cpp",
+		"/home/pankaj/Desktop/CountOccurences.cpp",
+		"/home/pankaj/Documents/geeksforgeeks/Data Structures/Array/order statistics/kthlargest.cpp",
+		"/home/pankaj/Documents/geeksforgeeks/Data Structures/Array/searching and sorting/sortelementbyfrequency.cpp",
+		"/home/pankaj/Documents/geeksforgeeks/Data Structures/Array/searching and sorting/majorityelement.cpp",
+		"/home/pankaj/Desktop/input",
+		"/home/pankaj/Downloads/15CS10031/makefile",
+		"/home/pankaj/Downloads/15CS10031/asm.s",
+		"/home/pankaj/Downloads/ass6_12CS10008_target_translator.cxx",
+		"/home/pankaj/Downloads/15CS10031/ass5_15CS10031_target_translator.cxx",
+		"/home/pankaj/Downloads/15CS10031/ass6_12CS10008_target_translator.cxx",
+		"/home/pankaj/Downloads/ass5_15CS30038.y",
+		"/home/pankaj/Downloads/15CS10031/15CS10031.y",
+		"/home/pankaj/Downloads/compiler-tinyc/tcGen/ass6_12CS10008.y",
+		"/home/pankaj/Downloads/compiler-tinyc/tcGen/ass6_12CS10008_translator.cxx",
+		"/home/pankaj/Downloads/15CS10031/15CS10031_translator.cxx",
+		"/home/pankaj/Downloads/15CS10031/15CS10031_translator.h",
+		"/home/pankaj/Downloads/compiler-tinyc/tcGen/ass6_12CS10008_translator.h",
+		"/home/pankaj/Downloads/15CS10031/15CS10031_target_translator.cxx",
+		"/home/pankaj/Downloads/compiler-tinyc/tcGen/ass6_12CS10008_target_translator.cxx",
+		"/home/pankaj/Downloads/compiler-tinyc/tcGen/ass6_12CS10008.l",
+		"/home/pankaj/Downloads/15CS10031/15CS10031.l",
+		"/home/pankaj/icpc/stddev123.cpp",
+		"/home/pankaj/icpc/compressionalgo.cpp",
+		"/home/pankaj/icpc/orderingteams.cpp",
+		"/home/pankaj/icpc/stddev.cpp",
+		"/home/pankaj/Documents/DATA ANALYTICS/project2/stocks.py",
+		"/home/pankaj/Documents/DATA ANALYTICS/15CS10031/games.py",
+		"/home/pankaj/Documents/DATA ANALYTICS/project2/snacks.py",
+		"/home/pankaj/Documents/DATA ANALYTICS/15CS10031/salary.py",
+		"/home/pankaj/Documents/DATA ANALYTICS/project2/nutrition.py",
+		"/home/pankaj/Documents/DATA ANALYTICS/project2/movie.py",
+		"/home/pankaj/Documents/DATA ANALYTICS/project2/games.py",
+		"/home/pankaj/Documents/DATA ANALYTICS/project2/salary.py",
+		"/home/pankaj/Documents/DATA ANALYTICS/project/iris.py",
+		"/home/pankaj/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/pankaj/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/pankaj/Downloads/regbank1 (1).v",
+		"/home/pankaj/Desktop/state.v",
+		"/home/pankaj/Downloads/datapath.v",
+		"/home/pankaj/codeforces/crosswords japaneese/japcross.cpp",
+		"/home/pankaj/codeforces/book reading/bookreading.cpp",
+		"/home/pankaj/codeforces/borya diagnosis/borya.cpp",
+		"/home/pankaj/Downloads/ass4_15CS10031/ass4_15CS10031_translator.cxx",
+		"/home/pankaj/Downloads/ass4_15CS10031/ass4_15CS10031_translator.h",
+		"/home/pankaj/Downloads/ass4_15CS10031/ass4_15CS10031.y",
+		"/home/pankaj/Downloads/ass5_14CS10003_translator.h",
+		"/home/pankaj/Downloads/ass5_14CS10003.y",
+		"/home/pankaj/Documents/verilog/bahav.v",
+		"/home/pankaj/Desktop/ass4_15CS10031/2test",
+		"/home/pankaj/Desktop/ass4_15CS10031/ass4_15CS10031_translator.cxx",
+		"/home/pankaj/Downloads/ass5_14CS10003_translator (2).h",
+		"/home/pankaj/Desktop/ass4_15CS10031/ass4_15CS10031_translator.h",
+		"/home/pankaj/Downloads/ass5_14CS10003 (1).y",
+		"/home/pankaj/Desktop/ass4_15CS10031/ass4_15CS10031.l",
+		"/home/pankaj/Desktop/ass4_15CS10031/ass4_15CS10031.y",
+		"/home/pankaj/Desktop/ass4_15CS10031 (2)/ass4_15CS10031_translator.cxx",
+		"/home/pankaj/Desktop/ass4_15CS10031 (2)/ass4_15CS10031.y",
+		"/home/pankaj/Desktop/ass4_15CS10031 (2)/ass4_15CS10031_translator.h"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"end",
+			"y",
+			"x",
+			"fscanf",
+			"fscanf(fp)",
+			"arr",
+			"serverlen",
+			"i",
+			"N",
+			"cnt++",
+			"mat]",
+			"mat-",
+			"mat+",
+			"mat ]",
+			"mat]",
+			"))",
+			"sqft",
+			"floors",
+			"bedrooms",
+			"bathrooms",
+			"bedrooms",
+			"floors",
+			"sqft",
+			"floors",
+			"bedrooms",
+			"bathrooms",
+			"sqft",
+			"- (maximum/2)",
+			"(maximum/2)",
+			"maximum/2",
+			"htons",
+			"bathrooms",
+			"bedrooms",
+			"floors",
+			"sqft",
+			"linear",
+			"3",
+			"quad",
+			"2",
+			"15",
+			"df",
+			"hypothesis",
+			"file_name",
+			"tempburst",
+			"argv",
+			"line",
+			"]);\n",
+			"po",
+			"endl",
+			"CST",
+			"FUNCEND",
+			"FUNC",
+			"numpy",
+			"D_cond",
+			"signFF",
+			"assignment_expression",
+			"assignment_operator",
+			"EQ ",
+			"gentemp",
+			"initializer ",
+			"initializer",
+			"EQ ",
+			"initmat->size()",
+			"$2->initmat->size()",
+			"initializer_row_list",
+			"EQ ",
+			"declarator",
+			"initializer",
+			"expr()",
+			"<exp>",
+			"<expr>",
+			"expr",
+			"EQ ",
+			"loc",
+			"EQUAL ",
+			"EQ ",
+			"typecheck",
+			"declarator",
+			"init_declarator",
+			"EQ ",
+			"EQ",
+			"struct",
+			"initliststr",
+			"initializer",
+			"cout",
+			"initializer_row_list",
+			"EQ ",
+			"argument_expression_list",
+			"EQ ",
+			"initializer",
+			"EQ_OP",
+			"assignment_expression",
+			"constant_expression ",
+			"BO ",
+			"equality_expression",
+			"expr",
+			"new expr()",
+			"conv",
+			"assignment_expression",
+			"expression",
+			"assignment_expression",
+			"expression",
+			"new expr();",
+			"equality_expression",
+			"BO ",
+			"EQ_OP",
+			"assignment_expression",
+			"NE_OP",
+			"EQ",
+			"\"=\"",
+			"assignment_expression",
+			"expression",
+			"symp",
+			"unary",
+			"DCOMM",
+			"unary_assignment",
+			"'~'",
+			"size",
+			"sym ",
+			"sym",
+			"BO ",
+			"table",
+			"emit",
+			"MATRIX",
+			"type_specifier",
+			"type_specifer",
+			"endl",
+			"->name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sy",
+			"sx",
+			"mem",
+			"n",
+			"//cnt++",
+			"matx]",
+			"matx -",
+			"matx +",
+			"sqft_test",
+			"floors_test",
+			"bedrooms_test",
+			"bathrooms_test",
+			"bedrooms_test",
+			"floors_test",
+			"sqft_test",
+			"floors_test",
+			"bedrooms_test",
+			"bathrooms_test",
+			"sqft_test",
+			"",
+			"bathrooms_test",
+			"bedrooms_test",
+			"floors_test",
+			"sqft_test",
+			"cube",
+			"quad",
+			"cube",
+			"4",
+			"cube",
+			"3",
+			"data_train",
+			"difference",
+			"filename",
+			"rem_bt",
+			"tokens",
+			"command",
+			"np",
+			"initmat.size()",
+			"unary()",
+			"<A>",
+			"unary"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/pankaj/Desktop/xyz.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "__init__.cpython-35.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

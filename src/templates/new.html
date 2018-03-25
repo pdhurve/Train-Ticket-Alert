@@ -1,0 +1,21 @@
+{%extends "base.html"%}
+{%load crispy_forms_tags%}
+
+{% block content%}
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-8 col-md-offset-10" style="padding: 50px;">
+			<h1> Seat Availability </h1>
+			<ul>
+			{% for obj in content %}
+			    <li>{{ obj.train_number}} - {{ obj.Class }} - {{ obj.quota }} - {{ obj.Source }} - {{ obj.Destination }} - {{ obj.status }} - {{ obj.Date}}</li>
+			{% endfor %}
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+{%endblock%}
