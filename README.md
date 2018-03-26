@@ -5,7 +5,7 @@ Home : homepage
 Add Details : You can add additions details
 Track Journey : Select Source station, Destination staion and Date of Journey
 Show Status : Shows status of all the concerned trains
-logout
+logout 
 
 
-The project uses Django and API from railwayapi.com to get live reservation status. JSON objects are also handled. However, there are only a limited amount of searches per API_KEY, so the user may need to get the free API KEY after some searches.
+The project uses Django and API from railwayapi.com to get live reservation status. JSON objects are also handled. However, there are only a limited amount of searches per API_KEY, so the user may need to get the free API KEY (src/newsletter/views.py) after some searches.
